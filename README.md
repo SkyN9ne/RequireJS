@@ -20,7 +20,7 @@ optimization tool can combine and minify your JavaScript files to allow for
 better performance.
 
 If the JavaScript file defines a JavaScript module via
-[define()](https://requirejs.org/docs/api.html#define), then there are other benefits
+[`define()`](https://requirejs.org/docs/api.html#define), then there are other benefits
 RequireJS can offer: [improvements over traditional CommonJS modules](https://requirejs.org/docs/commonjs.html)
 and [loading multiple versions](https://requirejs.org/docs/api.html#multiversion)
 of a module in a page. RequireJS also has a plugin system that supports features like
@@ -29,7 +29,7 @@ of a module in a page. RequireJS also has a plugin system that supports features
 
 RequireJS does not have any dependencies on a JavaScript framework.
 
-RequireJS works in IE 6+, Firefox 2+, Safari 3.2+, Chrome 3+, and Opera 10+.
+RequireJS works since Internet Explorer 6+, Mozilla Firefox 2+, Safari 3.2+, Google Chrome 3+, and Opera 10+.
 
 [Latest Release](https://requirejs.org/docs/download.html)
 
