@@ -8,7 +8,7 @@ in other JavaScript environments, like Rhino and
 [Asynchronous Module](https://github.com/amdjs/amdjs-api/wiki/AMD)
 API.
 
-RequireJS uses plain script tags to load modules/files, so it should allow for
+RequireJS uses plain script tags to load modules / files, so it should allow for
 easy debugging. It can be used
 [simply to load existing JavaScript files](https://requirejs.org/docs/api.html#jsfiles),
 so you can add it to your existing project without having to re-write your
